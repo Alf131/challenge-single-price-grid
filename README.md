@@ -1,4 +1,4 @@
-# Frontend Mentor - Single Price Grid Component
+# Frontend Mentor - Single Price Grid Component test
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
